@@ -67,7 +67,7 @@ nav li a {
 }
 
 /* main section styles */
-main {
+main, footer {
     max-width: 1440px;
     margin: 70px auto;
 }
@@ -180,6 +180,17 @@ main {
 }
 .sponsor-img-container img {
     width: 165px;
+}
+/* footer section styles */
+.footer-section {
+    padding: 40px;
+    border-radius: 8px;
+    background: #FFF4E7;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: #424242,
+    
 }
 
 
